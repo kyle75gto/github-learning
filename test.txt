@@ -1,3 +1,5 @@
 c est mon premier repo git
 
 C'est la premiere fois que je modifie un doc recup de github et je compte bien le repush sur github
+
+Je refais des modfis et je vais essayer de push ensuite via vs code directement.
