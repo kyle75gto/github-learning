@@ -1,0 +1,3 @@
+c est mon premier repo git
+
+C'est la premiere fois que je modifie un doc recup de github et je compte bien le repush sur github
